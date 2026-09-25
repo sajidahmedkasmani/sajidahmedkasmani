@@ -38,6 +38,12 @@ I'm **Sajid Ahmed Kasmani**, a passionate **Junior Full Stack Developer** and as
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
+### **CMS**
+<p>
+  <img src="https://img.shields.io/badge/Wordpress-777BB4?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />
+  <img src="https://img.shields.io/badge/Shopify-3776AB?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+</p>
+
 ### **Data Science & AI**
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -80,11 +86,20 @@ I'm **Sajid Ahmed Kasmani**, a passionate **Junior Full Stack Developer** and as
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/sajid-ahmed-kasmani-8a458636b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sajidahmedkasmani@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/sajid.ahmed.kasmani">
+    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/sajidahmed_zahid">
+    <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.threads.com/sajidahmed_zahid">
+    <img src="https://img.shields.io/badge/Threads-0A66C2?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
   <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
