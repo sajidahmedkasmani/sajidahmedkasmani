@@ -21,7 +21,8 @@ I'm **Sajid Ahmed Kasmani**, a passionate **Junior Full Stack Developer** and as
 - 🚀 **Full Stack Web Dev:** Crafting scalable backend architectures and modern dynamic frontends.
 - 📊 **Data Science & ML:** Cleaning data, exploring patterns, and building predictive machine learning workflows.
 - 🛠️ **Problem Solver:** Driven by clean code, optimized database structures, and practical AI integrations.
-- 💬 **Ask me about:** Python, Next.js, Flask, Web Architecture, Data Wrangling, or SQL.
+- 🎓 **SMIT Alumni:** Proud graduate/member of Saylani Mass IT Training program.
+- 💬 **Ask me about:** Python, Laravel, Next.js, Flask, Web Architecture, Data Wrangling, or SQL.
 
 ---
 
@@ -30,7 +31,7 @@ I'm **Sajid Ahmed Kasmani**, a passionate **Junior Full Stack Developer** and as
 ### **Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-3776AB?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -40,8 +41,8 @@ I'm **Sajid Ahmed Kasmani**, a passionate **Junior Full Stack Developer** and as
 
 ### **CMS**
 <p>
-  <img src="https://img.shields.io/badge/Wordpress-777BB4?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />
-  <img src="https://img.shields.io/badge/Shopify-3776AB?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 </p>
 
 ### **Data Science & AI**
@@ -77,7 +78,7 @@ I'm **Sajid Ahmed Kasmani**, a passionate **Junior Full Stack Developer** and as
 
 ## ⚡ Current Focus & Growth
 
-- 🟢 Enhancing full-stack web applications with **Next.js & Flask backends**.
+- 🟢 Enhancing full-stack web applications with **Laravel, Next.js & Flask backends**.
 - 🟢 Deepening machine learning algorithms and predictive modeling in **Python**.
 - 🟢 Designing integrated systems that pair smart web apps with data intelligence.
 
@@ -93,14 +94,15 @@ I'm **Sajid Ahmed Kasmani**, a passionate **Junior Full Stack Developer** and as
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/sajid.ahmed.kasmani">
-    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/sajidahmed_zahid">
-    <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.threads.com/sajidahmed_zahid">
-    <img src="https://img.shields.io/badge/Threads-0A66C2?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  <a href="https://www.threads.net/@sajidahmed_zahid">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
+  <img src="https://img.shields.io/badge/SMIT_Alumni-00529B?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SMIT Alumni" />
   <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
