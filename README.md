@@ -102,8 +102,9 @@ I'm **Sajid Ahmed Kasmani**, a passionate **Junior Full Stack Developer** and as
   <a href="https://www.threads.net/@sajidahmed_zahid">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
-  <img src="https://img.shields.io/badge/SMIT_Alumni-00529B?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SMIT Alumni" />
-  <a href="https://your-portfolio.com">
+  <a href="https://alumni.saylanimit.com/sajidahmedkasmani">
+    <img src="https://img.shields.io/badge/SMIT_Alumni-00529B?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SMIT Alumni" /> </a>
+  <a href="https://sajidahmedkasmani.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
